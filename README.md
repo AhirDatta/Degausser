@@ -1,2 +1,2 @@
-# degausser
+# Degausser
 Venue Aggregator
